@@ -2,7 +2,7 @@
 
 > ## 🌐🔒 Administración Remota y Protección Total para Windows 10 & 11
 >
-> **AppLocker Pro Nexus** es la evolución de AppLocker Pro Suite, incorporando una arquitectura **Host + Cliente** que permite administrar equipos de forma remota desde una consola centralizada.
+> **AppLocker Pro Nexus** es la evolución de AppLocker Pro Suite, incorporando una arquitectura **Host (servidor) + Cliente** que permite administrar equipos de forma remota desde una consola centralizada.
 >
 > Combina las capacidades de **AppLocker Pro** para la protección de aplicaciones y **NetBlocker Pro** para el control de Internet, añadiendo conectividad remota para gestionar políticas de seguridad desde cualquier ubicación.
 >
