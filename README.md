@@ -198,7 +198,7 @@
 
 <div align="center">
 
-<img src="img/SmartScreen.gif" alt="Cómo ejecutar AppLocker Pro Suite" width="250">
+<img src="img/SmartScreen.gif" alt="Cómo ejecutar AppLocker Pro Nexus" width="250">
 
 </div>
 
