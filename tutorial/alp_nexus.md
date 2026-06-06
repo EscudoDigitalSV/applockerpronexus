@@ -36,7 +36,7 @@ En la PC remota, abre AppLocker y ve al menú **⚙ Configuración → 📡 Cont
 
 Se abrirá la ventana de Control Remoto:
 
-![Ventana Control Remoto - Host](host_control_remoto.png)
+![Ventana Control Remoto - Host](2.png)
 
 Configura los siguientes campos:
 
@@ -50,7 +50,7 @@ Configura los siguientes campos:
 
 Presiona **✅ Guardar y activar**. Verás una confirmación con los datos para el cliente:
 
-![Servidor activo - datos para el cliente](host_servidor_activo.png)
+![Servidor activo - datos para el cliente](3.png)
 
 > 💡 Anota o copia la IP, Puerto y Token que se muestran — los necesitarás en el Cliente.
 
@@ -60,7 +60,7 @@ Presiona **✅ Guardar y activar**. Verás una confirmación con los datos para 
 
 Abre ALP Cliente en tu PC. En la barra superior ingresa los datos que obtuviste del Host:
 
-![ALP Cliente - barra de conexión](cliente_conexion.png)
+![ALP Cliente - barra de conexión](4.png)
 
 | Campo | Qué poner |
 |-------|-----------|
