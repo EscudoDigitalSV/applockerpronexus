@@ -206,6 +206,7 @@
 > Este procedimiento generalmente solo es necesario la primera vez que se ejecuta el instalador.
 
 ---
+
 # 📦 Requisitos del Sistema
 
 | Requisito         | Mínimo                               |
