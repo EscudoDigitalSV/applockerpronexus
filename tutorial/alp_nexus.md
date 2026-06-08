@@ -185,7 +185,11 @@ Abre:
 
 **⚙ Configuración → 📡 Control Remoto**
 
+![Menú Configuración en AppLocker Host](1.png)
+
 Selecciona la interfaz de Tailscale.
+
+![Ventana Control Remoto - Host](2.png)
 
 Generalmente aparecerá una IP similar a:
 
@@ -205,6 +209,8 @@ Presiona:
 
 ✅ Guardar y activar
 
+![Servidor activo - datos para el cliente](3.png)
+
 ---
 
 ## 💡 Importante
@@ -217,11 +223,15 @@ Si alguno es diferente, la conexión será rechazada.
 
 ## 💻 Paso 3 — Configurar ALP Cliente
 
+Abre ALP Cliente en tu PC. En la barra superior ingresa los datos que obtuviste del Host:
+
+![ALP Cliente - barra de conexión](4.png)
+
 Ingresa:
 
 | Campo  | Valor                           |
 | ------ | ------------------------------- |
-| IP     | IP Tailscale del Host           |
+| IP     | IP Tailscale del Host (servidor)          |
 | Puerto | El mismo configurado en el Host |
 | Token  | El mismo configurado en el Host |
 
