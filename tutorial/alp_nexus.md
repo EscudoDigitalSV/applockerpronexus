@@ -64,7 +64,7 @@ Configura:
 
 | Campo           | Valor                                           |
 | --------------- | ----------------------------------------------- |
-| Interfaz de red | Selecciona la interfaz que contenga tu IP local |
+| Interfaz de red | Selecciona la interfaz que contenga tu IP local (comparala con la que vistes en cmd)|
 | Puerto          | 9999 (o el que prefieras)                       |
 | Token           | Contraseña de acceso                            |
 
