@@ -161,10 +161,7 @@ Esta IP funciona sin importar dónde se encuentre el equipo.
 
 En ambas PCs:
 
-1. Descarga Tailscale desde:
-   https://tailscale.com/download
-
-2. Instálalo.
+1. Ve a 👉 **[https://tailscale.com/download](https://tailscale.com/download)** 2. Descarga e instala Tailscale en **la PC remota (Host)** y en **tu PC (Cliente)**
 
 3. Inicia sesión con la misma cuenta en ambas PCs.
 
