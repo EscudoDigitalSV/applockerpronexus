@@ -32,21 +32,142 @@
 
 # 💎 Comparativa de Licencias y Descarga
 
-| Funciones                                 |                                                                                    Gratis (Trial)                                                                                   |                                                                                              Suscripción Anual                                                                                             |                                                                          Licencia Vitalicia                                                                          |
-| :---------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 🔒 AppLocker Pro                          |                                                                                          ✅                                                                                          |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| 🌐 NetBlocker Pro                         |                                                                                          ✅                                                                                          |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| 🖥️ Host de administración remota         |                                                                                          ✅                                                                                          |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| 💻 Cliente remoto                         |                                                                                          ✅                                                                                          |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| Bloqueo de aplicaciones                   |                                                                                          ✅                                                                                          |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| Bloqueo de sitios web                     |                                                                                          ✅                                                                                          |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| Bloqueo de Internet por aplicación        |                                                                                          ✅                                                                                          |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| Administración remota                     |                                                                                          ✅                                                                                          |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| Protección por contraseña                 |                                                                                          ✅                                                                                          |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| Requerir contraseña al abrir externamente |                                                                                          ✅                                                                                          |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| Inicio con Windows                        |                                                                                          ✅                                                                                          |                                                                                                      ✅                                                                                                     |                                                                                   ✅                                                                                  |
-| **Duración**                              |                                                                                     **15 DÍAS**                                                                                     |                                                                                                  **1 AÑO**                                                                                                 |                                                                           **PARA SIEMPRE**                                                                           |
-| **Acción**                                | [![Probar](https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge\&logo=windows11\&logoColor=white)](https://github.com/escudodigitalsv/applockerpronexus/releases) | [![PayPal](https://img.shields.io/badge/PAYPAL-ANUAL-764ba2?style=for-the-badge\&logo=paypal\&logoColor=white)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-2LC10542U9615803DNISD7YA) | [![PayPal](https://img.shields.io/badge/PAYPAL-LIFETIME-667eea?style=for-the-badge\&logo=paypal\&logoColor=white)](https://www.paypal.com/ncp/payment/BAN5FLHSK6AN6) |
+<table>
+
+<tr>
+<th>Funciones</th>
+<th>Gratis (Trial)</th>
+<th>Suscripción Anual</th>
+<th>Licencia Vitalicia</th>
+</tr>
+
+<tr>
+<td>🔒 AppLocker Pro</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>🌐 NetBlocker Pro</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>🖥️ Host de administración remota</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>💻 Cliente remoto</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Bloqueo de aplicaciones</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Bloqueo de sitios web</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Bloqueo de Internet por aplicación</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Administración remota</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Protección por contraseña</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Requerir contraseña al abrir externamente</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Inicio con Windows</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Sincronización Host-Cliente</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Gestión de múltiples equipos</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td><b>Duración</b></td>
+<td align="center"><b>15 DÍAS</b></td>
+<td align="center"><b>1 AÑO</b></td>
+<td align="center"><b>PARA SIEMPRE</b></td>
+</tr>
+
+
+<tr>
+
+<td><b>Acción</b></td>
+
+<td align="center">
+
+<a href="https://github.com/escudodigitalsv/applockerpronexus/releases">
+
+<img src="https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge&logo=windows11&logoColor=white">
+
+</a>
+
+</td>
+
+
+<td colspan="2" align="center">
+
+<a href="https://www.escudodigitalsv.com" target="_blank" rel="noopener noreferrer">
+
+<img src="https://img.shields.io/badge/🛒_COMPRAR_LICENCIA-escudodigitalsv.com-blue?style=for-the-badge">
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
