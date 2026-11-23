@@ -1,14 +1,22 @@
-# <img src="https://i.servimg.com/u/f34/20/32/08/60/apploc12.png" width="32" height="32"> AppLocker Pro Nexus 1.0.0
+# <img src="https://i.servimg.com/u/f34/20/32/08/60/apploc12.png" width="32" height="32"> AppLocker Pro Nexus 1.1.0
 
-> ## 🌐🔒 Administración Remota y Protección Total para Windows 10 & 11
+> ## 🌐🔒 Administración Remota, Control Móvil vía Telegram y Protección Total para Windows 10 & 11
 >
-> **AppLocker Pro Nexus** es la evolución de AppLocker Pro Suite, incorporando una arquitectura **Host (servidor) + Cliente** que permite administrar equipos de forma remota desde una consola centralizada.
+> **AppLocker Pro Nexus** es la evolución de AppLocker Pro Suite, incorporando una arquitectura **Host (servidor) + Cliente + Bot de Telegram** que permite administrar equipos de forma remota desde una consola centralizada o directamente desde tu celular.
 >
-> Combina las capacidades de **AppLocker Pro** para la protección de aplicaciones y **NetBlocker Pro** para el control de Internet, añadiendo conectividad remota para gestionar políticas de seguridad desde cualquier ubicación.
+> Combina las capacidades de **AppLocker Pro** para la protección de aplicaciones y **NetBlocker Pro** para el control de Internet, añadiendo conectividad remota y **control móvil vía Telegram** para gestionar políticas de seguridad desde cualquier ubicación.
 >
 > Diseñado para empresas, técnicos, administradores de sistemas, instituciones educativas y usuarios avanzados que necesitan controlar uno o múltiples equipos de manera centralizada.
 >
-> **Control local. Administración remota. Seguridad total.**
+> **Control local. Administración remota desde PC y Celular. Seguridad total.**
+
+---
+
+# 🆕 Novedades en la Versión 1.1.0
+
+* **📱 Control Remoto desde Celular vía Bot de Telegram:** Administra tus equipos conectados directamente desde tu smartphone utilizando tu propio Bot de Telegram. Ejecuta comandos remotos para bloquear/desbloquear aplicaciones, restringir Internet y consultar el estado de tus clientes sin estar frente al PC Host.
+* **🔄 Verificación Automática de Actualizaciones:** El módulo Host (Servidor) comprueba automáticamente la disponibilidad de nuevas versiones para mantener el sistema actualizado.
+* **⚡ Mejoras de Rendimiento y Estabilidad:** Optimización en la sincronización entre el Host, los Clientes y el servicio remoto móvil.
 
 ---
 
@@ -64,6 +72,13 @@
 
 <tr>
 <td>💻 Cliente remoto</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>📱 Control remoto vía Bot de Telegram (Celular)</td>
 <td align="center">✅</td>
 <td align="center">✅</td>
 <td align="center">✅</td>
@@ -146,7 +161,7 @@
 
 <td align="center">
 
-<a href="https://github.com/EscudoDigitalSV/applockerpronexus/releases/download/v1.0.0/AppLockerProNexus.zip">
+<a href="https://github.com/EscudoDigitalSV/applockerpronexus/releases/download/v1.1.0/AppLockerProNexus.zip">
 
 <img src="https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge&logo=windows11&logoColor=white">
 
@@ -183,22 +198,24 @@
 | 💡 Beneficios Clave                        | ⚙️ Especificaciones                |
 | :----------------------------------------- | :--------------------------------- |
 | 🌐 Administración remota centralizada      | 🖥️ Compatible con Windows 10 y 11 |
-| 🔒 Protección avanzada de aplicaciones     | ⚡ Bajo consumo de recursos         |
-| 🌐 Control total de Internet y navegación  | 🚀 Inicio automático con Windows   |
-| 🏢 Ideal para empresas y múltiples equipos | 🔄 Sincronización Host-Cliente     |
-| 🛡️ Seguridad multicapa                    | 🔕 Funcionamiento silencioso       |
-| 🔑 Control mediante autenticación          | 📡 Gestión remota en tiempo real   |
+| 📱 Control remoto desde celular (Telegram) | ⚡ Bajo consumo de recursos         |
+| 🔒 Protección avanzada de aplicaciones     | 🚀 Inicio automático con Windows   |
+| 🌐 Control total de Internet y navegación  | 🔄 Sincronización Host-Cliente     |
+| 🏢 Ideal para empresas y múltiples equipos | 🔕 Funcionamiento silencioso       |
+| 🛡️ Seguridad multicapa                    | 📡 Gestión remota en tiempo real   |
+| 🔑 Control mediante autenticación          | 🔄 Verificación de actualizaciones |
 
 ---
 
 # 🔥 Arquitectura Nexus
 
-| Componente        | Función                                                    |
-| ----------------- | ---------------------------------------------------------- |
-| 🖥️ Nexus Host    | Consola principal para administrar equipos remotos.        |
-| 💻 Nexus Cliente  | Equipo administrado que recibe las políticas configuradas. |
-| 🔒 AppLocker Pro  | Protección y bloqueo de aplicaciones.                      |
-| 🌐 NetBlocker Pro | Control de sitios web y conexiones de red.                 |
+| Componente         | Función                                                        |
+| ------------------ | -------------------------------------------------------------- |
+| 🖥️ Nexus Host     | Consola principal para administrar equipos remotos.            |
+| 💻 Nexus Cliente   | Equipo administrado que recibe las políticas configuradas.     |
+| 📱 Bot de Telegram | Módulo remoto móvil para controlar el Host desde el celular.   |
+| 🔒 AppLocker Pro   | Protección y bloqueo de aplicaciones.                          |
+| 🌐 NetBlocker Pro  | Control de sitios web y conexiones de red.                     |
 
 ---
 
@@ -206,7 +223,7 @@
 
 ### 🌐 Control Centralizado
 
-* Gestión de equipos desde una ubicación central.
+* Gestión de equipos desde una ubicación central o dispositivo móvil.
 * Aplicación remota de configuraciones.
 * Sincronización de políticas de seguridad.
 * Administración simplificada.
@@ -215,8 +232,16 @@
 
 * Panel central de administración.
 * Gestión de múltiples clientes.
+* Integración con Bot de Telegram.
 * Configuración remota.
 * Supervisión de políticas activas.
+
+### 📱 Modo Remoto Móvil (Bot de Telegram)
+
+* Vinculación directa con tu Bot de Telegram desde el Host.
+* Ejecución remota de bloqueos y desbloqueos desde el celular.
+* Control de acceso a Internet de los clientes a distancia.
+* Notificaciones y consultas de estado en tiempo real desde cualquier lugar.
 
 ### 💻 Cliente
 
@@ -255,20 +280,21 @@
 
 # 💎 Beneficios de Nexus
 
-| Beneficio                | Descripción                                   |
-| ------------------------ | --------------------------------------------- |
-| 🌐 Administración remota | Gestiona equipos desde cualquier ubicación.   |
-| 🛡️ Protección multicapa | Aplicaciones + Internet + Gestión remota.     |
-| ⚡ Escalable              | Ideal para uno o múltiples equipos.           |
-| 🔒 Mayor seguridad       | Control centralizado de políticas.            |
-| 🚀 Fácil implementación  | Configuración sencilla y rápida.              |
-| 🏢 Orientado a empresas  | Perfecto para oficinas y entornos educativos. |
+| Beneficio                 | Descripción                                                |
+| ------------------------- | ---------------------------------------------------------- |
+| 🌐 Administración remota  | Gestiona equipos desde cualquier ubicación.                |
+| 📱 Control móvil Telegram | Opera bloqueos y políticas directamente desde tu celular.  |
+| 🛡️ Protección multicapa  | Aplicaciones + Internet + Gestión remota PC y Móvil.       |
+| ⚡ Escalable               | Ideal para uno o múltiples equipos.                        |
+| 🔒 Mayor seguridad        | Control centralizado de políticas.                         |
+| 🚀 Fácil implementación   | Configuración sencilla y rápida.                           |
+| 🏢 Orientado a empresas   | Perfecto para oficinas y entornos educativos.              |
 
 ---
 
 # 🛡️ Casos de Uso
 
-✅ Administración remota de equipos
+✅ Administración remota de equipos desde PC o celular
 
 ✅ Laboratorios informáticos
 
@@ -276,7 +302,7 @@
 
 ✅ Centros educativos
 
-✅ Control parental remoto
+✅ Control parental remoto desde smartphone
 
 ✅ Protección de estaciones de trabajo
 
@@ -289,7 +315,7 @@
 # ⚠️ Nota de Seguridad
 
 > [!CAUTION]
-> AppLocker Pro Nexus utiliza comunicación entre Host y Cliente para administrar políticas de seguridad, bloqueo de aplicaciones y control de Internet.
+> AppLocker Pro Nexus utiliza comunicación entre Host, Cliente y Bot de Telegram para administrar políticas de seguridad, bloqueo de aplicaciones y control de Internet.
 >
 > Debido a este comportamiento técnico, algunos antivirus o soluciones de seguridad pueden mostrar alertas preventivas o falsos positivos.
 
@@ -330,13 +356,13 @@
 
 # 📦 Requisitos del Sistema
 
-| Requisito         | Mínimo                               |
-| ----------------- | ------------------------------------ |
-| Sistema Operativo | Windows 10 / 11                      |
-| Arquitectura      | x64                                  |
-| RAM               | 2 GB                                 |
-| Espacio en Disco  | 250 MB                               |
-| Red               | Requerida para administración remota |
+| Requisito         | Mínimo                                                   |
+| ----------------- | -------------------------------------------------------- |
+| Sistema Operativo | Windows 10 / 11                                          |
+| Arquitectura      | x64                                                      |
+| RAM               | 2 GB                                                     |
+| Espacio en Disco  | 250 MB                                                   |
+| Red               | Requerida para administración remota y Bot de Telegram   |
 
 ---
 
@@ -381,9 +407,9 @@ Si encuentras un error o comportamiento inesperado, puedes enviarnos un correo a
 
 ## ❤️ AppLocker Pro Nexus © 2026
 
-### Administración remota + Protección de aplicaciones + Control de Internet
+### Administración remota + Control Móvil vía Telegram + Protección de aplicaciones + Control de Internet
 
-**🖥️ Host + 💻 Cliente + 🔒 AppLocker Pro + 🌐 NetBlocker Pro**
+**🖥️ Host + 💻 Cliente + 📱 Bot de Telegram + 🔒 AppLocker Pro + 🌐 NetBlocker Pro**
 
 Seguridad centralizada para Windows.
 
