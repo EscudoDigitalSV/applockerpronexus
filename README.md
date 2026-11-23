@@ -78,7 +78,7 @@
 </tr>
 
 <tr>
-<td>📱 Control remoto vía Bot de Telegram (Celular)</td>
+<td>📱 Control remoto desde celular (Bot de Telegram)</td>
 <td align="center">✅</td>
 <td align="center">✅</td>
 <td align="center">✅</td>
@@ -161,7 +161,7 @@
 
 <td align="center">
 
-<a href="https://github.com/EscudoDigitalSV/applockerpronexus/releases/download/v1.1.0/AppLockerProNexus.zip">
+<a href="https://github.com/EscudoDigitalSV/applockerpronexus/releases/download/v1.0.0/AppLockerProNexus.zip">
 
 <img src="https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge&logo=windows11&logoColor=white">
 
@@ -209,13 +209,13 @@
 
 # 🔥 Arquitectura Nexus
 
-| Componente         | Función                                                        |
-| ------------------ | -------------------------------------------------------------- |
-| 🖥️ Nexus Host     | Consola principal para administrar equipos remotos.            |
-| 💻 Nexus Cliente   | Equipo administrado que recibe las políticas configuradas.     |
-| 📱 Bot de Telegram | Módulo remoto móvil para controlar el Host desde el celular.   |
-| 🔒 AppLocker Pro   | Protección y bloqueo de aplicaciones.                          |
-| 🌐 NetBlocker Pro  | Control de sitios web y conexiones de red.                     |
+| Componente        | Función                                                       |
+| ----------------- | ------------------------------------------------------------- |
+| 🖥️ Nexus Host    | Consola principal para administrar equipos remotos.           |
+| 💻 Nexus Cliente  | Equipo administrado que recibe las políticas configuradas.    |
+| 📱 Bot de Telegram | Módulo remoto móvil para controlar el Host desde el celular.  |
+| 🔒 AppLocker Pro  | Protección y bloqueo de aplicaciones.                         |
+| 🌐 NetBlocker Pro | Control de sitios web y conexiones de red.                    |
 
 ---
 
@@ -242,6 +242,8 @@
 * Ejecución remota de bloqueos y desbloqueos desde el celular.
 * Control de acceso a Internet de los clientes a distancia.
 * Notificaciones y consultas de estado en tiempo real desde cualquier lugar.
+
+* 📖 [Guía para configurar el Bot de Telegram](https://www.escudodigitalsv.com/guiabtl)
 
 ### 💻 Cliente
 
@@ -280,15 +282,15 @@
 
 # 💎 Beneficios de Nexus
 
-| Beneficio                 | Descripción                                                |
-| ------------------------- | ---------------------------------------------------------- |
-| 🌐 Administración remota  | Gestiona equipos desde cualquier ubicación.                |
-| 📱 Control móvil Telegram | Opera bloqueos y políticas directamente desde tu celular.  |
-| 🛡️ Protección multicapa  | Aplicaciones + Internet + Gestión remota PC y Móvil.       |
-| ⚡ Escalable               | Ideal para uno o múltiples equipos.                        |
-| 🔒 Mayor seguridad        | Control centralizado de políticas.                         |
-| 🚀 Fácil implementación   | Configuración sencilla y rápida.                           |
-| 🏢 Orientado a empresas   | Perfecto para oficinas y entornos educativos.              |
+| Beneficio                | Descripción                                             |
+| ------------------------ | ------------------------------------------------------- |
+| 🌐 Administración remota | Gestiona equipos desde cualquier ubicación.             |
+| 📱 Control móvil Telegram | Opera bloqueos y políticas directamente desde tu celular. |
+| 🛡️ Protección multicapa | Aplicaciones + Internet + Gestión remota PC y Móvil.    |
+| ⚡ Escalable              | Ideal para uno o múltiples equipos.                     |
+| 🔒 Mayor seguridad       | Control centralizado de políticas.                      |
+| 🚀 Fácil implementación  | Configuración sencilla y rápida.                        |
+| 🏢 Orientado a empresas  | Perfecto para oficinas y entornos educativos.           |
 
 ---
 
@@ -356,13 +358,13 @@
 
 # 📦 Requisitos del Sistema
 
-| Requisito         | Mínimo                                                   |
-| ----------------- | -------------------------------------------------------- |
-| Sistema Operativo | Windows 10 / 11                                          |
-| Arquitectura      | x64                                                      |
-| RAM               | 2 GB                                                     |
-| Espacio en Disco  | 250 MB                                                   |
-| Red               | Requerida para administración remota y Bot de Telegram   |
+| Requisito         | Mínimo                                                 |
+| ----------------- | ------------------------------------------------------ |
+| Sistema Operativo | Windows 10 / 11                                        |
+| Arquitectura      | x64                                                    |
+| RAM               | 2 GB                                                   |
+| Espacio en Disco  | 250 MB                                                 |
+| Red               | Requerida para administración remota y Bot de Telegram |
 
 ---
 
