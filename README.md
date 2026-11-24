@@ -161,7 +161,7 @@
 
 <td align="center">
 
-<a href="https://github.com/EscudoDigitalSV/applockerpronexus/releases/download/v1.0.0/AppLockerProNexus.zip">
+<a href="https://github.com/EscudoDigitalSV/applockerpronexus/releases/download/v1.1.0/AppLockerProNexus.zip">
 
 <img src="https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge&logo=windows11&logoColor=white">
 
